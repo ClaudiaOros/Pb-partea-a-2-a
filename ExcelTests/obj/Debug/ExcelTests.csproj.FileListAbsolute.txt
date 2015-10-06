@@ -6,3 +6,10 @@ c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\bin\Deb
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\obj\Debug\ExcelTests.csprojResolveAssemblyReference.cache
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\obj\Debug\ExcelTests.dll
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\obj\Debug\ExcelTests.pdb
+C:\Users\Administrator\Desktop\Pavage\ExcelTests\bin\Debug\ExcelTests.dll
+C:\Users\Administrator\Desktop\Pavage\ExcelTests\bin\Debug\ExcelTests.pdb
+C:\Users\Administrator\Desktop\Pavage\ExcelTests\bin\Debug\Excel.dll
+C:\Users\Administrator\Desktop\Pavage\ExcelTests\bin\Debug\Excel.pdb
+C:\Users\Administrator\Desktop\Pavage\ExcelTests\obj\Debug\ExcelTests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pavage\ExcelTests\obj\Debug\ExcelTests.dll
+C:\Users\Administrator\Desktop\Pavage\ExcelTests\obj\Debug\ExcelTests.pdb

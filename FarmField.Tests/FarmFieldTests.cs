@@ -10,7 +10,10 @@ namespace FarmField.Tests
         [TestMethod]
         public void InitialSurfaceTest1()
         {
-            double initialSurface = FarmField.CalculateInitialSurface();
+            int width = 230;
+            int totalSurface = 770000;
+            int a = 1;
+            double initialSurface = FarmField.CalculateInitialSurface(a, width, -totalSurface);
 
             Assert.AreEqual(592900,initialSurface,"Initial Surface not correct");
         }

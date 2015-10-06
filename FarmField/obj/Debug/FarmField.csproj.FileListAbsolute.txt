@@ -3,3 +3,8 @@ c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField\bin\Debu
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField\obj\Debug\FarmField.csprojResolveAssemblyReference.cache
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField\obj\Debug\FarmField.dll
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField\obj\Debug\FarmField.pdb
+C:\Users\Administrator\Desktop\Pavage\FarmField\bin\Debug\FarmField.dll
+C:\Users\Administrator\Desktop\Pavage\FarmField\bin\Debug\FarmField.pdb
+C:\Users\Administrator\Desktop\Pavage\FarmField\obj\Debug\FarmField.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pavage\FarmField\obj\Debug\FarmField.dll
+C:\Users\Administrator\Desktop\Pavage\FarmField\obj\Debug\FarmField.pdb

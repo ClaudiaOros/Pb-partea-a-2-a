@@ -6,3 +6,10 @@ c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\bi
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\obj\Debug\FarmField.Tests.csprojResolveAssemblyReference.cache
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\obj\Debug\FarmField.Tests.dll
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\obj\Debug\FarmField.Tests.pdb
+C:\Users\Administrator\Desktop\Pavage\FarmField.Tests\bin\Debug\FarmField.Tests.dll
+C:\Users\Administrator\Desktop\Pavage\FarmField.Tests\bin\Debug\FarmField.Tests.pdb
+C:\Users\Administrator\Desktop\Pavage\FarmField.Tests\bin\Debug\FarmField.dll
+C:\Users\Administrator\Desktop\Pavage\FarmField.Tests\bin\Debug\FarmField.pdb
+C:\Users\Administrator\Desktop\Pavage\FarmField.Tests\obj\Debug\FarmField.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pavage\FarmField.Tests\obj\Debug\FarmField.Tests.dll
+C:\Users\Administrator\Desktop\Pavage\FarmField.Tests\obj\Debug\FarmField.Tests.pdb

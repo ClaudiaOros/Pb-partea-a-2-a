@@ -3,3 +3,8 @@ c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Excel\bin\Debug\Ex
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Excel\obj\Debug\Excel.dll
 c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Excel\obj\Debug\Excel.pdb
+C:\Users\Administrator\Desktop\Pavage\Excel\bin\Debug\Excel.dll
+C:\Users\Administrator\Desktop\Pavage\Excel\bin\Debug\Excel.pdb
+C:\Users\Administrator\Desktop\Pavage\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pavage\Excel\obj\Debug\Excel.dll
+C:\Users\Administrator\Desktop\Pavage\Excel\obj\Debug\Excel.pdb
