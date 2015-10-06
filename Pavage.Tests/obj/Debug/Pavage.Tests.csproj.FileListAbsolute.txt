@@ -1,0 +1,8 @@
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Pavage.Tests\bin\Debug\Pavage.Tests.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Pavage.Tests\bin\Debug\Pavage.Tests.pdb
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Pavage.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Pavage.Tests\bin\Debug\Pavage.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Pavage.Tests\bin\Debug\Pavage.pdb
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Pavage.Tests\obj\Debug\Pavage.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Pavage.Tests\obj\Debug\Pavage.Tests.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Pavage.Tests\obj\Debug\Pavage.Tests.pdb

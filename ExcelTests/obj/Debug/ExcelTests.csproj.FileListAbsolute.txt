@@ -1,0 +1,8 @@
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\bin\Debug\ExcelTests.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\bin\Debug\ExcelTests.pdb
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\bin\Debug\Excel.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\bin\Debug\Excel.pdb
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\obj\Debug\ExcelTests.csprojResolveAssemblyReference.cache
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\obj\Debug\ExcelTests.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\ExcelTests\obj\Debug\ExcelTests.pdb

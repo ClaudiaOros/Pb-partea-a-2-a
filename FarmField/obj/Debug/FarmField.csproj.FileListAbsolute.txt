@@ -1,0 +1,5 @@
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField\bin\Debug\FarmField.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField\bin\Debug\FarmField.pdb
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField\obj\Debug\FarmField.csprojResolveAssemblyReference.cache
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField\obj\Debug\FarmField.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField\obj\Debug\FarmField.pdb

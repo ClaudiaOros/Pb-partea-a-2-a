@@ -1,0 +1,8 @@
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\bin\Debug\FarmField.Tests.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\bin\Debug\FarmField.Tests.pdb
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\bin\Debug\FarmField.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\bin\Debug\FarmField.pdb
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\obj\Debug\FarmField.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\obj\Debug\FarmField.Tests.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\FarmField.Tests\obj\Debug\FarmField.Tests.pdb

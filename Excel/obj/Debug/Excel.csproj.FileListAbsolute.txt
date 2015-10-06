@@ -1,0 +1,5 @@
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Excel\bin\Debug\Excel.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Excel\bin\Debug\Excel.pdb
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Excel\obj\Debug\Excel.dll
+c:\Users\Claudia\documents\visual studio 2015\Projects\Pavage\Excel\obj\Debug\Excel.pdb

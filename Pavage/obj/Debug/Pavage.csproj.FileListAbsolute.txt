@@ -1,0 +1,5 @@
+c:\users\claudia\documents\visual studio 2015\Projects\Pavage\Pavage\bin\Debug\Pavage.dll
+c:\users\claudia\documents\visual studio 2015\Projects\Pavage\Pavage\bin\Debug\Pavage.pdb
+c:\users\claudia\documents\visual studio 2015\Projects\Pavage\Pavage\obj\Debug\Pavage.csprojResolveAssemblyReference.cache
+c:\users\claudia\documents\visual studio 2015\Projects\Pavage\Pavage\obj\Debug\Pavage.dll
+c:\users\claudia\documents\visual studio 2015\Projects\Pavage\Pavage\obj\Debug\Pavage.pdb
