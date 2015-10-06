@@ -1,0 +1,7 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\InterestRate.Tests\bin\Debug\InterestRate.Tests.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\InterestRate.Tests\bin\Debug\InterestRate.Tests.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\InterestRate.Tests\bin\Debug\InterestRate.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\InterestRate.Tests\bin\Debug\InterestRate.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\InterestRate.Tests\obj\Debug\InterestRate.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\InterestRate.Tests\obj\Debug\InterestRate.Tests.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\InterestRate.Tests\obj\Debug\InterestRate.Tests.pdb
