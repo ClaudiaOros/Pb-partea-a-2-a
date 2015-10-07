@@ -17,5 +17,27 @@ namespace FarmField.Tests
 
             Assert.AreEqual(592900,initialSurface,"Initial Surface not correct");
         }
+
+        [TestMethod]
+        public void InitialSurfaceTest2()
+        {
+            int width = 2;
+            int totalSurface = 1;
+            int a = 1;
+            double initialSurface = FarmField.CalculateInitialSurface(a, width, totalSurface);
+
+            Assert.AreEqual(1, initialSurface, "Initial Surface not correct");
+        }
+
+        [TestMethod]
+        public void InitialSurfaceTest3()
+        {
+            int width = -1;
+            int totalSurface = -1;
+            int a = -1;
+            double initialSurface = FarmField.CalculateInitialSurface(a, width, totalSurface);
+
+            Assert.AreEqual(592900, initialSurface, "Initial Surface not correct");
+        }
     }
 }
